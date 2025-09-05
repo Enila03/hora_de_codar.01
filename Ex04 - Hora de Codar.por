@@ -9,7 +9,8 @@ programa
 		real resultado, raio
 		
 
-		escreva(	"Digite 1 para calcular RETÂNGULO\n" +
+		escreva("Qual área deseja calcular?\n" +
+				"Digite 1 para calcular RETÂNGULO\n" +
 				"Digite 2 para calcular QUADRADO\n" +
 				"Digite 3 para calcular LOSANGO\n" +
 				"Digite 4 para calcular TRAPÉZIO\n" + 
