@@ -94,7 +94,7 @@ programa
 
 			caso 7:
 			//círculo
-				escreva("Informa a raio do círculo: ")
+				escreva("Informa o raio do círculo: ")
 				leia(raio)
 
 				resultado = 3.14159 * (raio * raio)
