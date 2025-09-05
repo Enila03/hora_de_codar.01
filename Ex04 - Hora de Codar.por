@@ -98,7 +98,7 @@ programa
 				leia(raio)
 
 				resultado = 3.14159 * (raio * raio)
-				escreva("A área do triângulo é " + resultado)
+				escreva("A área do círculo é " + resultado)
 				
 				pare
 				
