@@ -96,7 +96,8 @@ fun ex04() {
         when(option){
             1 -> {
                 retangulo()
-                break            }
+                break            
+            }
             2 -> {
                 quadarado()
                 break
