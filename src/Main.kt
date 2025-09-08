@@ -208,7 +208,7 @@ fun circulo () {
     println("Informe o raio do círculo:")
     val raio : Int = readLine()!!.toInt()
 
-    val area = PI * raio * raio
+    val area = PI * raio.pow(2)
     println("A área do raio é ${area}")
 
     ex04()
