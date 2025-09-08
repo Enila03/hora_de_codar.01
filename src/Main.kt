@@ -212,4 +212,5 @@ fun circulo () {
     println("A área do raio é ${area}")
 
     ex04()
+    
 }
